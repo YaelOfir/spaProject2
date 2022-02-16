@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "client",
   "version": "0.1.0",
   "private": true,
@@ -38,5 +39,23 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+=======
+  "name": "zevel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "fs": "^0.0.1-security",
+    "nodemon": "^2.0.15",
+    "uuid": "^8.3.2"
+>>>>>>> c201479ce0743ff84d5880fe4642745ecd1448db
   }
 }
